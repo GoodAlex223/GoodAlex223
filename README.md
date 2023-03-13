@@ -4,3 +4,4 @@
 * Contact:
    * alexminak32@gmail.com
    * [LinkedIn](https://www.linkedin.com/in/alexey-minakov-302457168/)
+   * [goodalex223.github.io](https://goodalex223.github.io/)
